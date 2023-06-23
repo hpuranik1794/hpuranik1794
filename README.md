@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 I'm majoring in Data Science at the University of Waterloo. Some of the things I'm highly passionate about include machine learning, programming, and web development.
 
 ### Connect with me:
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/tree/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
 
 
