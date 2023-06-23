@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Harsha Puranik! 👋
 
 <!--
 **hpuranik1794/hpuranik1794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm majoring in Data Science at the University of Waterloo. Some of the things I'm highly passionate about include machine learning, programming, and web development.
+
+### Connect with me:
+
+
+
+
