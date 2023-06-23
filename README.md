@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/harshapuranik179/"><img align="center" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.svg" alt="hpuranik1794" width="35" /></a>&nbsp;
 <a href="https://discord.gg/harsh179" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="hpuranik" height="40" width="40" /></a>&nbsp;
 <a href="https://leetcode.com/hpuranik/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="hpuranik" width="35" /></a>&nbsp;
-<a href="https://kaggle.com/https://www.kaggle.com/harshapuranik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/harshapuranik" height="30" width="40" /></a>&nbsp;
+<a href="https://www.kaggle.com/harshapuranik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/harshapuranik" height="30" width="40" /></a>&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
