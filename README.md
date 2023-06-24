@@ -5,7 +5,7 @@
   
 - 📫 How to reach me: harshapuranik1704@gmail.com
   
-- ⚡ Fun fact: I can recite all elements of the periodic table in under a minute!
+- ⚡ Fun fact: I can solve a rubix cube in under a minute!
   
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
