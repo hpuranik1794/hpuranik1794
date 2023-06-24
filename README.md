@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harsha Puranik! 👋</h1>
 <h3>I'm deeply passionate about Machine Learning 🤖, Programming 👨‍💻, Photography 📸 and Art 🎨</h3>
 
-- 🌱 I’m currently learning TensorFlow and Deep Learning techniques
+- 🌱 I’m currently learning Cloud Computing with AI
   
 - 📫 How to reach me: harshapuranik1704@gmail.com
   
