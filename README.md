@@ -15,7 +15,6 @@
 
 <h3 align="left">Check me out:</h3>
 <a href="https://leetcode.com/hpuranik/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="hpuranik" width="40" /></a>&nbsp;
-<a href="https://www.kaggle.com/harshapuranik" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="https://www.kaggle.com/harshapuranik" height="40" width="40" /></a>&nbsp;
 
 <h3 align="left">Python Frameworks:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="top" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
