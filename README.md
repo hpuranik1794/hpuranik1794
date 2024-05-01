@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harsha Puranik! 👋</h1>
-<h3>I'm deeply passionate about Data 📊, Programming 👨‍💻, Photography 📸 and Art 🎨</h3>
+<h3>I'm deeply passionate about Data 📈, Programming 👨‍💻, Photography 📸 and Art 🎨</h3>
 
 - 🌱 I’m currently learning how to build **data ingestion pipelines on the cloud**
 
