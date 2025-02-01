@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Harsha Puranik! 👋</h1>
 
 ## About Me
-- 🎓 Bachelor of Computer Science (Data Science major) @ University of Waterloo
+- 🎓 3rd year **Computer Science** at the **University of Waterloo**
 - ⚡ Currently learning how to build **data pipelines on the cloud**
-- 🤝 Would love to collaborate on any cool projects
-- 📫 Reach me at hpuranik@uwaterloo.ca
+- 🥸 Learn more about me [here](https://hpuranik.vercel.app/)!
 - 🌎 Fun fact: I am a geography nerd!
 
 <h3 align="left">Connect with me:</h3>
